@@ -1,0 +1,3 @@
+/home/wingert/Desktop/DCC012/A01/build/CMakeFiles/hello.dir
+/home/wingert/Desktop/DCC012/A01/build/CMakeFiles/edit_cache.dir
+/home/wingert/Desktop/DCC012/A01/build/CMakeFiles/rebuild_cache.dir
